@@ -36,4 +36,6 @@ end
 def first_second_and_third_students
   # Write a solution that returns the first, second and third students
   puts STUDENT_NAMES[0]
+  puts STUDENT_NAMES[1]
+  puts STUDENT_NAMES[2]
 end
